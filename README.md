@@ -1,5 +1,4 @@
 # Laboratório de Informática e Linguagens
-***
 
 Este repositório reúne o material em código **Python** do componente curricular **"Laboratório de Informática e Linguagens"** da Escola Cidadã Integral José Rodrigues de Ataíde (Itatuba - PB).
 

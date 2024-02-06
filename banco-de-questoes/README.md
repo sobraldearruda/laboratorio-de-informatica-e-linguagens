@@ -1,5 +1,4 @@
 # Banco de Questões
-***
 
 Este Banco de Questões reúne os códigos em **Python** para os exercícios desenvolvidos no componente curricular de **"Laboratório de Programação 1"**, da Universidade Federal de Campina Grande (UFCG), e no **"Curso em Vídeo em Python"**, do Prof. Gustavo Guanabara.
 
